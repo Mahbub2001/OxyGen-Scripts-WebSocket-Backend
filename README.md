@@ -44,7 +44,7 @@ The software leverages **RapidAPI** for code submission.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Mahbub2001/OxyGen-Scripts.git
+   git clone https://github.com/Mahbub2001/OxyGen-Scripts-WebSocket-Backend.git
    ```
 2. Install dependencies:
    ```sh
@@ -52,7 +52,7 @@ The software leverages **RapidAPI** for code submission.
    ```
 3. Run the application:
    ```sh
-   npm run dev
+   npx nodemon index.js
    ```
 
 ## Frontend Link:
